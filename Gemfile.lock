@@ -1,0 +1,10 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    swift-db-postgres (0.2.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  swift-db-postgres
